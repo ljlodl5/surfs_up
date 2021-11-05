@@ -12,7 +12,8 @@ However, even after ascertaining these facts there exists other opportunities to
 
 * **What is the temperature like in Oahu in June and December?**
 Enclosed is side-by-side comparison of June and December temperatures and varying statistics, respectively from years 2010-2017. As one can see there is ample evidence that the average temperature for Oahu 
-is temperate year-round, with very little variation not only between averages but across minimum and maximum temperatures recorded between the respective months. 
+is temperate year-round, with very little variation not only between averages but across maximum temperatures recorded between the respective months. It is noteworthy that December has an 8 degree reduction in 
+min temperature than from June. I would also want to see if this is a trend (or an outlier) and if surrounding months (November and January) fare closer or further from June. Low temperatures will reduce demand for the surf and ice cream shop.   
 
 ![Exhibit A](https://github.com/ljlodl5/surfs_up/blob/main/JuneDecTemps%20Combined.png)
 
