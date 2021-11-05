@@ -1,7 +1,6 @@
-# surfs_up
+# Surfs_up
 SQL analysis of weather data
-# Pewlett-Hackard-Analysis
-SQL and relational database support 
+
 
 ## **Overview**
 The goal is to utilize SQLAlchemy to analyze a data table focused on a variety of weather statistics in Hawaii. Ultimately the question the challenge is trying to resolve is
@@ -15,7 +14,7 @@ However, even after ascertaining these facts there exists other opportunities to
 Enclosed is side-by-side comparison of June and December temperatures and varying statistics, respectively from years 2010-2017. As one can see there is ample evidence that the average temperature for Oahu 
 is temperate year-round, with very little variation not only between averages but across minimum and maximum temperatures recorded between the respective months. 
 
-![Exhibit A](https://github.com/ljlodl5/Pewlett-Hackard-Analysis/blob/main/Queries/Data/Total%20Retirement%20Ready%20by%20Job%20Title%20.png)
+![Exhibit A](https://github.com/ljlodl5/surfs_up/blob/main/JuneDecTemps%20Combined.png)
 
 
 
