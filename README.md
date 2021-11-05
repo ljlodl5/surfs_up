@@ -38,4 +38,4 @@ However, it is important to do additional research when considering such an inve
 Oahu is definitely a place to consider, but it is important to note other statistics and locations should be considered as well.   
 
 #### Surf's Up Challenge located in GitHub
-(https://github.com/ljlodl5/surfs-up)
+(https://github.com/ljlodl5/surfs_up)
