@@ -4,8 +4,8 @@ SQL analysis of weather data
 
 ## **Overview**
 The goal is to utilize SQLAlchemy to analyze a data table focused on a variety of weather statistics in Hawaii. Ultimately the question the challenge is trying to resolve is
-whether a surf and ice cream shop business will thrive and be profitable year-round on Oahu. The focus is currently on determining if Oahu is temperate enough in June and December.
-However, even after ascertaining these facts there exists other opportunities to explore in order to determine if this is the best residence for a surf and ice-cream shop. 
+whether a surf and ice cream shop business will thrive and be profitable year-round on Oahu? The current focus is on determining whether Oahu is temperate enough in June and December.
+However, even after ascertaining these facts there exists other opportunities to explore in order to answer if this is the best residence for a surf and ice-cream shop. 
 
 
 ### **Results**: 
@@ -24,7 +24,7 @@ Are there less stations, what is impacting the reduction in numbers and does thi
 
 
 * **The standard deviation is elevated for December**
-While the stardard deviation is not extremely different between June (3.2) and December (3.7) the difference can mean there are outliers to consider in December.
+While the standard deviation is not extremely different between June (3.2) and December (3.7) the difference can mean there are outliers to consider in December.
 Outlier temperatures can have a real impact on the amount of customers at the surf and ice cream shop. 
 It may be a good opportunity to have Plan B offerings in December to ensure labor matches demand.
 
